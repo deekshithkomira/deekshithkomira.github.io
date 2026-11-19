@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 670" width="940" height="670" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif">
+<rect width="940" height="670" rx="14" fill="#050406"/>
+<text x="34" y="40" fill="#E9C53C" font-size="11.5" font-weight="700" letter-spacing="2.6">WHERE I USED WHAT</text>
+<text x="308" y="76" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">Deloitte</text>
+<text x="400" y="76" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">Tufts</text>
+<text x="400" y="89" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">(teaching)</text>
+<text x="492" y="76" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">Apps</text>
+<text x="492" y="89" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">Associates</text>
+<text x="584" y="76" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">Johnson &amp;</text>
+<text x="584" y="89" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">Johnson</text>
+<text x="676" y="76" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">NIT Warangal</text>
+<text x="768" y="76" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">Tata Elxsi</text>
+<text x="860" y="76" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">Personal</text>
+<text x="860" y="89" fill="#7A8092" font-size="9.6" font-weight="600" text-anchor="middle" letter-spacing=".5">projects</text>
+<text x="248" y="136" fill="#A9B0C0" font-size="12.4" text-anchor="end">Python</text>
+<rect x="264" y="120" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="356" y="120" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="448" y="120" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="540" y="120" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="632" y="120" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="724" y="120" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="816" y="120" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="166" fill="#A9B0C0" font-size="12.4" text-anchor="end">SQL</text>
+<rect x="264" y="149" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="356" y="149" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="448" y="149" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="540" y="149" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="632" y="149" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="149" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="816" y="149" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<text x="248" y="194" fill="#A9B0C0" font-size="12.4" text-anchor="end">Pandas / NumPy</text>
+<rect x="264" y="178" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="356" y="178" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="448" y="178" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="540" y="178" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="632" y="178" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="724" y="178" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="816" y="178" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="224" fill="#A9B0C0" font-size="12.4" text-anchor="end">ETL pipelines</text>
+<rect x="264" y="207" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="356" y="207" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="448" y="207" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="540" y="207" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="632" y="207" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="207" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="816" y="207" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="252" fill="#A9B0C0" font-size="12.4" text-anchor="end">Data quality &amp; governance</text>
+<rect x="264" y="236" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="356" y="236" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="448" y="236" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="540" y="236" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="632" y="236" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="236" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="816" y="236" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<text x="248" y="282" fill="#A9B0C0" font-size="12.4" text-anchor="end">Power BI</text>
+<rect x="264" y="265" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="356" y="265" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="448" y="265" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="540" y="265" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="632" y="265" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="265" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="265" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="310" fill="#A9B0C0" font-size="12.4" text-anchor="end">Excel / Sheets</text>
+<rect x="264" y="294" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="356" y="294" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="448" y="294" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="540" y="294" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="632" y="294" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="294" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="816" y="294" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<text x="248" y="340" fill="#A9B0C0" font-size="12.4" text-anchor="end">Oracle Fusion / OCI</text>
+<rect x="264" y="323" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="356" y="323" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="448" y="323" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="540" y="323" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="632" y="323" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="323" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="323" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<text x="248" y="368" fill="#A9B0C0" font-size="12.4" text-anchor="end">Apache Spark</text>
+<rect x="264" y="352" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="356" y="352" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="448" y="352" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="540" y="352" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="632" y="352" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="352" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="352" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="398" fill="#A9B0C0" font-size="12.4" text-anchor="end">REST APIs</text>
+<rect x="264" y="381" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="356" y="381" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="448" y="381" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="540" y="381" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="632" y="381" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="381" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="381" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="426" fill="#A9B0C0" font-size="12.4" text-anchor="end">Statistical modelling</text>
+<rect x="264" y="410" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="356" y="410" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="448" y="410" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="540" y="410" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="632" y="410" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="724" y="410" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="410" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="456" fill="#A9B0C0" font-size="12.4" text-anchor="end">Machine learning</text>
+<rect x="264" y="439" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="356" y="439" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="448" y="439" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="540" y="439" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="632" y="439" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="724" y="439" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="439" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="484" fill="#A9B0C0" font-size="12.4" text-anchor="end">Deep learning / CNN</text>
+<rect x="264" y="468" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="356" y="468" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="448" y="468" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="540" y="468" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="632" y="468" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="724" y="468" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="468" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="514" fill="#A9B0C0" font-size="12.4" text-anchor="end">LLMs &amp; RAG</text>
+<rect x="264" y="497" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="356" y="497" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="448" y="497" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="540" y="497" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="632" y="497" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="497" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="497" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<text x="248" y="542" fill="#A9B0C0" font-size="12.4" text-anchor="end">LangChain</text>
+<rect x="264" y="526" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="356" y="526" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="448" y="526" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="540" y="526" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="632" y="526" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="724" y="526" width="88" height="25" rx="4" fill="rgba(246,245,248,.07)"/>
+<rect x="816" y="526" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<text x="248" y="572" fill="#A9B0C0" font-size="12.4" text-anchor="end">Git / GitHub</text>
+<rect x="264" y="555" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="356" y="555" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="448" y="555" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="540" y="555" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="632" y="555" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="724" y="555" width="88" height="25" rx="4" fill="rgba(124,92,255,.44)"/>
+<rect x="816" y="555" width="88" height="25" rx="4" fill="#7C5CFF"/>
+<rect x="34" y="598" width="16" height="9" rx="2" fill="#7C5CFF"/>
+<text x="58" y="606" fill="#7A8092" font-size="9.6" font-weight="700" letter-spacing="1.4">CORE TO THE ROLE</text>
+<rect x="205.6" y="598" width="16" height="9" rx="2" fill="rgba(124,92,255,.44)"/>
+<text x="229.6" y="606" fill="#7A8092" font-size="9.6" font-weight="700" letter-spacing="1.4">USED REGULARLY</text>
+<rect x="361.0" y="598" width="16" height="9" rx="2" fill="rgba(246,245,248,.07)"/>
+<text x="385.0" y="606" fill="#7A8092" font-size="9.6" font-weight="700" letter-spacing="1.4">NOT USED THERE</text>
+</svg>
